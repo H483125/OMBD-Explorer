@@ -314,3 +314,8 @@ For issues or questions:
 4. Try the troubleshooting section above
 
 Enjoy exploring movies with the OMDB Movie Explorer!
+
+<img width="1859" height="873" alt="Screenshot 2025-11-26 164656" src="https://github.com/user-attachments/assets/a634d81a-d8d2-4fa7-ab9e-f0b96a79c7fd" />
+
+<img width="1861" height="962" alt="Screenshot 2025-11-26 163741" src="https://github.com/user-attachments/assets/95a8ed6d-ae66-419b-b2f9-7517511b19f7" />
+
